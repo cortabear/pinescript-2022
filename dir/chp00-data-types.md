@@ -53,7 +53,7 @@ labels
 ## References  
   
 ### Pine Script    
-1. [Link goes here](#)  
+1. [Pine Script™ v5 User Manual](https://www.tradingview.com/pine-script-docs/en/v5/index.html)   
 
 ### The Art Of Trading  
 1. [Data Types](https://youtu.be/HYyuYgPRLpc?list=PLSP_1DBafH-ES8Fw_noPA8d3dNxScysjc&t=3699)  
