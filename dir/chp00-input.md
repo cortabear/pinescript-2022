@@ -12,7 +12,9 @@ float otherCandleCount = 0  // Explicitly define the variable as a float.
   
 anotherCandleCount = na  // Set the variable to NULL
 
-float moreCandleCount = na  // Set a number to an initial NULL value.
+float moreCandleCount = na  // Set a number to an initial NULL value.  
+  
+var count = 0 // Persist across all candles.  
   
 ```  
 

@@ -12,9 +12,21 @@ colorCurrent = #000000
 colorStatus = false
 
 if colorStatus
-colorCurrent := color.red
+colorCurrent := color.red // 
     
 ```  
+  
+**Example #2**  
+Count All The Green Candles  
+```js  
+
+var count = 0 // Persist across all candles.
+if close > open
+count := count + 1  // Re-assign a new value to 'count'
+
+plot(count, color=color.red)  
+    
+``` 
 
   
 ## References  
