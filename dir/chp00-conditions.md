@@ -35,3 +35,6 @@ plot(count, color=color.red)
 1. [Pine Script™ v5 User Manual](https://www.tradingview.com/pine-script-docs/en/v5/index.html)  
 
 ### The Art Of Trading  
+**Author**: Matthew J. Slabosz  
+**Location**: Queensland, Australia  
+ 

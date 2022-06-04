@@ -96,5 +96,8 @@ plot(rationATR, color=color.red)
 ### Pine Script    
 1. [Pine Script™ v5 User Manual](https://www.tradingview.com/pine-script-docs/en/v5/index.html)  
 
-### The Art Of Trading 
+### The Art Of Trading  
+**Author**: Matthew J. Slabosz  
+**Location**: Queensland, Australia  
+ 
 1. [Price Series](https://youtu.be/HYyuYgPRLpc?list=PLSP_1DBafH-ES8Fw_noPA8d3dNxScysjc&t=3157)
