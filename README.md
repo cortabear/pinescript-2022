@@ -7,6 +7,7 @@ Pine Script v5 basic fundamentals.
 1. [Conditions](/dir/chp00-conditions.md) 
 1. [Data Type](/dir/chp00-data-types.md)  
 1. [Input](/dir/chp00-input.md) 
+1. [Libraries](/dir/chp00-libraries.md)
 1. [Plotting](/dir/chp00-plotting.md)  
 1. [Price](/dir/chp00-candle-price.md)  
 1. [Variables](/dir/chp00-variables.md)  
@@ -35,7 +36,6 @@ Pine Script v5 basic fundamentals.
     1. Merge  
     1. Summary  
     1. Correlation  
-1. Libraries  
 1. Stategy Automation  
 1. AutoView Guide  
 1. PineConnector Guide  
